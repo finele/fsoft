@@ -1,0 +1,12 @@
+body {
+  background-color: #F5F7FA;
+  color: rgb(50, 68, 103);
+  font-family: Poppins, sans-serif;
+  text-align: center;
+}
+.main {
+  margin-top: 360px;
+}
+h1 {
+  font-size: 96px;
+}
